@@ -4,5 +4,4 @@ Get all the username,ratings,comment heading and comments and display in a table
 
 DEMO:
 
-https://user-images.githubusercontent.com/22385974/103334013-fc651e80-4a95-11eb-8422-f5b1cf5c7556.mp4
-
+![scrape1 (1)](https://user-images.githubusercontent.com/22385974/103334325-dee48480-4a96-11eb-8fcf-4e8a683a13d0.gif)
